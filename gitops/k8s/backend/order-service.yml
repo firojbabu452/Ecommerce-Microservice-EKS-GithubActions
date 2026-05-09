@@ -16,9 +16,9 @@ spec:
       containers:
         - name: order-service
 <<<<<<< HEAD
-          image: 297601880274.dkr.ecr.us-east-1.amazonaws.com/order-service:86b4c450186c15b84389ce5b8175ecb848ed3798
+          image: 297601880274.dkr.ecr.us-east-1.amazonaws.com/order-service:0ba35136ab78e5c00c980bc49c4a50f909ba1d9b
 =======
-          image: 297601880274.dkr.ecr.us-east-1.amazonaws.com/order-service:601f8a1e3fd6563e1248cd16de7dd302b9abea7d
+          image: 297601880274.dkr.ecr.us-east-1.amazonaws.com/order-service:0ba35136ab78e5c00c980bc49c4a50f909ba1d9b
           imagePullPolicy: Always
 >>>>>>> 0bf064a (config change)
           ports:
