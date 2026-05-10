@@ -1,12 +1,11 @@
 # DevOps + AIOps Series
 
-> A full end-to-end DevOps project with AIOps integration — so you can connect the dots between how AI is helping automate DevOps tasks today.
+> A full end-to-end DevOps project with AIOps integration — so you can connect the dots between how AI is helping automate
 
 ---
 
 ## Welcome
 
-Hey everyone!
 
 Welcome to my DevOps + AI series where we build an end-to-end DevOps project with an AIOps integration.
 
@@ -87,38 +86,7 @@ Then we actually build the project. You'll see:
 - Infrastructure provisioning with Terraform
 - Observability with Prometheus and Grafana
 
----
 
-### Part 4 — AIOps Integration
-[`projects/aiops-assistant/README.md`](projects/aiops-assistant/README.md)
-
-Finally, we explore how AI helps with:
-
-- Monitoring and anomaly detection
-- Log analysis at scale
-- Incident response automation
-- DevOps troubleshooting
-
-Because modern DevOps is no longer just automation — it's **automation + intelligence**.
-
----
-
-## Bonus Challenge
-
-You'll get access to this entire repository.
-
-But there's a catch.
-
-The repository includes **intentional issues and troubleshooting tasks**.
-
-Why? Because AI has made things easier. But if you want to grow as an engineer, you must learn how to break systems, debug systems, and fix systems.
-
-Once you implement the project:
-
-1. Fork the repository
-2. Deploy the system
-3. Troubleshoot the issues
-4. Share what you learned — and tag me so I know you're building along
 
 ---
 
