@@ -1,19 +1,8 @@
-# DevOps + AIOps Series
+# DevOps + AIOps 
 
 > A full end-to-end DevOps project with AIOps integration — so you can connect the dots between how AI is helping automate
 
----
-
-## Welcome
-
-
-Welcome to my DevOps + AI series where we build an end-to-end DevOps project with an AIOps integration.
-
-A lot of you have been asking: *"when are you going to share a full DevOps project?"*
-
-Well — here we are.
-
-In this series we will:
+In this project i will:
 
 - Build microservices locally
 - Use Claude and AI tools to assist development
@@ -22,8 +11,6 @@ In this series we will:
 - Set up a full CI/CD pipeline with GitHub Actions
 - Implement GitOps workflows with ArgoCD
 - Integrate AIOps capabilities with AWS Bedrock
-
-By the end of this series, you won't just know tools — you'll understand how real DevOps systems are designed and deployed.
 
 ---
 
@@ -50,18 +37,16 @@ DevOps-Practice-Guide/
 
 ---
 
-## Series Structure
+## Project flow Structure
 
-### Part 1 — System Design Foundations
+### System Design Foundations
 [`docs/part1-system-design.md`](docs/part1-system-design.md)
 
-We start with system design concepts specifically for cloud and DevOps. This is important whether you're a beginner, intermediate, or senior engineer — because companies don't choose tools randomly. They think about architecture patterns, deployment strategies, scalability, reliability, and cost tradeoffs.
-
-We cover 12 core system design pillars used in modern DevOps architectures, and connect each one directly to something running in this project.
+i start with system design concepts specifically for cloud and DevOps. This is important whether you're a beginner, intermediate, or senior engineer — because companies don't choose tools randomly. They think about architecture patterns, deployment strategies, scalability, reliability, and cost tradeoffs.
 
 ---
 
-### Part 2 — Understanding the Workflow
+### Understanding the Workflow
 [`docs/part2-workflow.md`](docs/part2-workflow.md)
 
 Before writing any code or deployment configs, you need to understand how the entire system flows:
@@ -74,10 +59,8 @@ This is where the full picture comes together — including how AI fits into the
 
 ---
 
-### Part 3 — DevOps Project Implementation
+### DevOps Project Implementation
 [`projects/README.md`](projects/README.md)
-
-Then we actually build the project. You'll see:
 
 - Docker containers and Docker Compose
 - Kubernetes deployments on EKS
@@ -85,8 +68,6 @@ Then we actually build the project. You'll see:
 - GitOps automation with ArgoCD
 - Infrastructure provisioning with Terraform
 - Observability with Prometheus and Grafana
-
-
 
 ---
 
